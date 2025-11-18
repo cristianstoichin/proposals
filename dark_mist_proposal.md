@@ -18,7 +18,7 @@ What caught my attention: You need someone who can execute fast with AWS + Bedro
 
 **Try It Yourself:**
 1. Visit https://admin.short-ly.net/login
-2. Create a test account or use demo credentials (available upon request)
+2. Use demo credentials: **demo.user@short-ly.net / Pass123$**
 3. Upload a document to see the document summarization in action
 4. Notice the responsive design (works perfectly on mobile - crucial for field underwriters)
 5. Experience the real-time Bedrock integration
@@ -36,6 +36,23 @@ What caught my attention: You need someone who can execute fast with AWS + Bedro
 - Developed PDF report generation for compliance audits
 - Created computer vision pipeline for safety analysis
 - Implemented multi-factor scoring systems with weighted algorithms
+
+**🚀 OTHER PRODUCTION APPLICATIONS - Demonstrating My Full-Stack Expertise:**
+
+Beyond the Bedrock-integrated platform, I've built and deployed multiple production SaaS applications using the same AWS architecture:
+
+**Simple Booking - Complete SaaS Booking Management Platform:**
+- **Client-Facing Store:** https://finance-dev.simple-booking.org/services
+- **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
+- **Architecture:** Vue.js frontend + Python/Lambda backend + API Gateway + DynamoDB
+- **Features:** Real-time booking management, calendar integration, payment processing, multi-tenant support
+- **What This Demonstrates:**
+  - Experience building both customer-facing and admin interfaces
+  - Complex state management and real-time updates
+  - Production-ready SaaS architecture at scale
+  - Responsive design across multiple user types
+
+This booking platform showcases the same technical stack and development approach I'll use for Dark Mist, proving my ability to deliver comprehensive, production-ready solutions with both client and admin interfaces.
 
 ## 2. TECHNICAL APPROACH - LEVERAGING EXISTING INFRASTRUCTURE
 
@@ -84,8 +101,6 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 - **Days 15-17:** Demo mode with your 20+ sample facilities
 - **Days 18-19:** Final UI polish and mobile optimization
 - **Days 20-21:** Testing, deployment, documentation, and handoff
-
-**Availability:** 45+ hours per week dedicated to Dark Mist
 
 ## 4. REFERENCES & PORTFOLIO
 
