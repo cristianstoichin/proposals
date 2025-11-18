@@ -80,7 +80,6 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 
 **Week 2: Insurance-Specific Features**
 - Build PDF report generation using ReportLab with Dark Mist branding
-- Create demo mode leveraging my existing caching layer
 - Add image annotation capabilities to highlight detected hazards
 - Implement batch processing for multiple facility photos
 - Final testing and deployment optimizations
@@ -88,32 +87,36 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 **What You Get By Using My Platform:**
 - **See It Working NOW:** Visit https://admin.short-ly.net/login to evaluate quality
 - **Proven Reliability:** Production-grade infrastructure ready to scale
-- **Cost Optimized:** Bedrock API calls already optimized
-- **Security Built-in:** OWASP compliant with proper authentication
-- **Instant Foundation:** Skip 2 weeks of basic development
+- **Instant Foundation:** Skip 1 week of basic development and infrastructure setup, every thing is scripted using Terraform and deployed to AWS securely using Github Actions(this is pretty much free within the Github.com platform for a project like yours.)
 
 ## 3. TIMELINE - 3 WEEKS DELIVERY
 
 **Leveraging https://admin.short-ly.net for efficient development:**
 
-### Week 1 (Days 1-7):
-- **Days 1-2:** Fork existing platform, configure for Dark Mist requirements
-- **Days 3-4:** Integrate your insurance prompts, implement 4-coverage risk scoring
-- **Days 5-7:** Build Step Functions workflow and risk calculation engine
+### Week 1:
+- Fork existing platform and configure for Dark Mist requirements
+- Integrate your insurance-specific prompts for facility analysis
+- Implement the 4-coverage risk scoring system (General Liability, Commercial Auto, Pollution, Property)
+- Build Step Functions workflow and risk calculation engine
+- Set up initial infrastructure and development environment
 
 **Checkpoint:** Core infrastructure adapted for insurance use case
 
-### Week 2 (Days 8-14):
-- **Days 8-10:** Risk assessment display UI with hazard categorization
-- **Days 11-12:** PDF report generation with Dark Mist branding
-- **Days 13-14:** Image annotation capabilities and batch processing
+### Week 2:
+- Develop risk assessment display UI with hazard categorization and color coding
+- Build PDF report generation with Dark Mist branding using ReportLab
+- Implement image annotation capabilities to highlight detected hazards
+- Add batch processing for multiple facility photos
+- Integrate all components into cohesive workflow
 
 **Checkpoint:** Full image upload → analysis → risk score → report generation working
 
-### Week 3 (Days 15-21):
-- **Days 15-17:** Demo mode with your 20+ sample facilities
-- **Days 18-19:** Final UI polish and mobile optimization
-- **Days 20-21:** Testing, deployment, documentation, and handoff
+### Week 3:
+- Create demo mode with your 20+ sample facilities
+- Complete final UI polish and mobile optimization
+- Perform comprehensive testing across all features
+- Deploy to production environment
+- Prepare documentation and conduct handoff
 
 ## 4. REFERENCES & PORTFOLIO
 
@@ -135,8 +138,7 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 - Security-first design with comprehensive testing
 
 **Client Testimonials:**
-- [Include your actual testimonials here]
-- [Upwork profile with ratings]
+- Please check my Upwork profile and the existing reviews.
 
 ## 5. STRATEGIC QUESTIONS
 
@@ -146,11 +148,8 @@ Given that my platform at https://admin.short-ly.net is ready, my questions focu
 
 2. **Risk Scoring Algorithm:** Should the 4 coverage types be weighted equally, or do you have industry-standard weights? Can you share sample risk assessment outputs?
 
-3. **Integration Formats:** Would you prefer the JSON output to match ACORD or ISO standards for easier integration with existing insurance systems?
+3. **Demo Facilities:** Which facility types are most important for pilot customer demos? (auto shops, warehouses, restaurants, etc.)
 
-4. **Demo Facilities:** Which facility types are most important for pilot customer demos? (auto shops, warehouses, restaurants, etc.)
-
-5. **Platform Access:** Would you like access to https://admin.short-ly.net now to explore the existing functionality while I work on the insurance features?
 
 ## 6. VALUE PROPOSITION
 
@@ -204,6 +203,8 @@ LaMont, the difference between me and other candidates is simple: **You can test
 - You can evaluate code quality before hiring
 
 I'm ready to transform Dark Mist from vision to reality using my battle-tested platform as the foundation. Let's get your solution in front of pilot customers faster than your competitors expect.
+
+**Availability:** I can start work on your project in 3-5 days, ensuring dedicated focus on delivering your Dark Mist MVP within the 3-week timeline.
 
 Best regards,
 
