@@ -4,7 +4,7 @@
 
 Hi LaMont,
 
-**Test my working platform right now at https://admin.short-ly.net/login** – it's a production-ready platform with AWS Bedrock + Claude fully integrated. Your Dark Mist MVP is essentially my existing platform adapted for insurance image analysis. This means you get proven infrastructure, faster delivery (2 weeks instead of 3), and zero technical risk.
+**Test my working platform right now at https://admin.short-ly.net/login** – it's a production-ready platform with AWS Bedrock + Claude fully integrated. I can leverage this existing system to build your Dark Mist MVP for insurance image analysis. This means you get proven infrastructure, faster delivery (2 weeks instead of 3), and zero technical risk.
 
 What caught my attention: You need someone who can execute fast with AWS + Bedrock. I'm not selling you development time – I'm offering you a fully-built platform that already has 80% of what you need. See it for yourself before we even talk.
 
