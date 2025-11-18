@@ -132,8 +132,7 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 - Comprehensive documentation and tests
 
 **Technical Achievements:**
-- Built to handle 100+ documents daily with zero downtime
-- Average Bedrock response: 2.3 seconds
+- **AWS Certified Solutions Architect Professional** - Deep expertise in AWS best practices and architecture
 - **100% Serverless Architecture:** AWS Lambda, API Gateway, S3, DynamoDB - you only pay when the system is in use
 - **Cost Optimized:** <$200 monthly for typical volume, scales down to near-zero during idle periods
 - Security-first design with comprehensive testing
@@ -169,25 +168,6 @@ Given that my platform at https://admin.short-ly.net is ready, my questions focu
 - Monitoring and analytics already implemented
 - Mobile-responsive design thoroughly tested
 
-## PRICING PROPOSAL
-
-Given that I'm bringing a working platform at https://admin.short-ly.net:
-
-**Option 1 - Standard (3 weeks): $8,500**
-- Adapt my platform for Dark Mist
-- All required features from your specification
-- 2 rounds of revisions
-- 30-day post-launch support
-
-**Option 2 - Enhanced (4 weeks): $11,000**
-- Everything in Standard
-- AWS Rekognition for enhanced hazard detection
-- Analytics dashboard
-- Multi-user support with roles
-- 60-day post-launch support
-
-**Payment Terms:** 25% upfront, 35% Week 1 completion, 40% final delivery
-
 ## CLOSING
 
 LaMont, the difference between me and other candidates is simple: **You can test my work right now at https://admin.short-ly.net/login**. While others are promising they can build your MVP, I'm showing you a working platform that needs adaptation, not creation.
@@ -210,28 +190,6 @@ I'm ready to transform Dark Mist from vision to reality using my battle-tested p
 
 Best regards,
 
-[Your Name]
-[Your Phone]
-[Your Email]
-[LinkedIn Profile]
+Cristian Stoichin
 
 P.S. Demo credentials are included above for both platforms - test them immediately to see the quality of my work. This transparency should give you complete confidence in my ability to deliver.
-
----
-
-## NOTES FOR CUSTOMIZATION
-
-**Before sending, update:**
-1. [Your Name] and contact information
-2. [Your GitHub Profile] with actual link
-3. Client testimonials with real feedback
-4. Upwork profile link if applicable
-5. Specific metrics from your platform if different
-6. Add any additional relevant experience
-
-**Key Selling Points:**
-- Live platform at https://admin.short-ly.net
-- 3-week delivery timeline
-- Test before hiring advantage
-- Production-ready infrastructure
-- Insurance domain understanding
