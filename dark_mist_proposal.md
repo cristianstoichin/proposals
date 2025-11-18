@@ -4,7 +4,7 @@
 
 Hi LaMont,
 
-**Test my working platform right now at https://admin.short-ly.net/login** – it's a production-ready platform with AWS Bedrock + Claude fully integrated. I can leverage this existing system to build your Dark Mist MVP for insurance image analysis. This means you get proven infrastructure, faster delivery (2 weeks instead of 3), and zero technical risk.
+**Test my working platform right now at https://admin.short-ly.net/login** – it's a production-ready platform with AWS Bedrock + Claude fully integrated. I can leverage this existing system to build your Dark Mist MVP for insurance image analysis. This means you get proven infrastructure, faster delivery, and zero technical risk.
 
 What caught my attention: You need someone who can execute fast with AWS + Bedrock. I'm not selling you development time – I'm offering you a fully-built platform that already has 80% of what you need. See it for yourself before we even talk.
 
@@ -19,7 +19,7 @@ What caught my attention: You need someone who can execute fast with AWS + Bedro
 **Try It Yourself:**
 1. Visit https://admin.short-ly.net/login
 2. Create a test account or use demo credentials (available upon request)
-3. Upload a document to see the file processing in action
+3. Upload a document to see the document summarization in action
 4. Notice the responsive design (works perfectly on mobile - crucial for field underwriters)
 5. Experience the real-time Bedrock integration
 
@@ -87,7 +87,7 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 **🔥 Live Demo - Available Now:**
 - **Platform:** https://admin.short-ly.net/login
 - **Credentials:** Can provide demo account immediately
-- **Test It:** Upload files, see Bedrock processing, experience the UI
+- **Test It:** Upload documents, see Bedrock summarization, experience the UI
 - **Mobile:** Try it on your phone to see responsive design
 
 **GitHub Repository:**
@@ -96,7 +96,7 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 - Comprehensive documentation and tests
 
 **Technical Achievements:**
-- Built to handle 100+ files daily with zero downtime
+- Built to handle 100+ documents daily with zero downtime
 - Average Bedrock response: 2.3 seconds
 - Optimized AWS cost: <$200 monthly for typical volume
 - Security-first design with comprehensive testing
