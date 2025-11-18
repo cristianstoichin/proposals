@@ -134,7 +134,8 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 **Technical Achievements:**
 - Built to handle 100+ documents daily with zero downtime
 - Average Bedrock response: 2.3 seconds
-- Optimized AWS cost: <$200 monthly for typical volume
+- **100% Serverless Architecture:** AWS Lambda, API Gateway, S3, DynamoDB - you only pay when the system is in use
+- **Cost Optimized:** <$200 monthly for typical volume, scales down to near-zero during idle periods
 - Security-first design with comprehensive testing
 
 **Client Testimonials:**
@@ -163,6 +164,7 @@ Given that my platform at https://admin.short-ly.net is ready, my questions focu
 
 **Long-term Advantages:**
 - Platform designed for scale from day one
+- **Serverless = No Fixed Costs:** No servers to maintain, automatic scaling, pay only for actual usage
 - Clean codebase ready for future features
 - Monitoring and analytics already implemented
 - Mobile-responsive design thoroughly tested
