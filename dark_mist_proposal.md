@@ -144,14 +144,14 @@ Given that my platform at https://admin.short-ly.net is ready, my questions focu
 
 Given that I'm bringing a working platform at https://admin.short-ly.net:
 
-**Option 1 - Fast Track (2 weeks): $7,000**
+**Option 1 - Standard (3 weeks): $8,500**
 - Adapt my platform for Dark Mist
 - All required features from your specification
 - 2 rounds of revisions
 - 30-day post-launch support
 
-**Option 2 - Enhanced (3 weeks): $9,500**
-- Everything in Fast Track
+**Option 2 - Enhanced (4 weeks): $11,000**
+- Everything in Standard
 - AWS Rekognition for enhanced hazard detection
 - Analytics dashboard
 - Multi-user support with roles
@@ -167,12 +167,12 @@ LaMont, the difference between me and other candidates is simple: **You can test
 1. **Today:** Visit https://admin.short-ly.net/login to see the platform
 2. **Tomorrow:** Quick 15-minute call to discuss your specific requirements
 3. **Day 3:** Begin adapting my platform for Dark Mist
-4. **Day 14:** Your MVP is ready for pilot customers
+4. **Week 3:** Your MVP is ready for pilot customers
 
 **My Unique Advantages:**
 - Only candidate with a live, testable platform
 - Fully integrated AWS + Bedrock implementation
-- 2-week delivery vs. 3-week expectation
+- Reliable 3-week delivery timeline
 - You can evaluate code quality before hiring
 
 I'm ready to transform Dark Mist from vision to reality using my battle-tested platform as the foundation. Let's get your solution in front of pilot customers faster than your competitors expect.
@@ -200,7 +200,7 @@ P.S. I can provide you with demo credentials for https://admin.short-ly.net imme
 
 **Key Selling Points:**
 - Live platform at https://admin.short-ly.net
-- 2-week delivery instead of 3
+- 3-week delivery timeline
 - Test before hiring advantage
 - Production-ready infrastructure
 - Insurance domain understanding
