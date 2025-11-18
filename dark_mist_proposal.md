@@ -1,6 +1,6 @@
 # Dark Mist MVP - Upwork Proposal
 
-**Subject: AWS + Bedrock Expert with LIVE Platform at https://admin.short-ly.net - Can Deliver Dark Mist MVP in 2 Weeks**
+**Subject: AWS + Bedrock Expert with LIVE Platform at https://admin.short-ly.net - Can Deliver Dark Mist MVP in 3 Weeks**
 
 Hi LaMont,
 
@@ -62,23 +62,28 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 - **Security Built-in:** OWASP compliant with proper authentication
 - **Instant Foundation:** Skip 2 weeks of basic development
 
-## 3. ACCELERATED TIMELINE - 2 WEEKS DELIVERY
+## 3. TIMELINE - 3 WEEKS DELIVERY
 
-**Because I'm starting with https://admin.short-ly.net, I can deliver FASTER:**
+**Leveraging https://admin.short-ly.net for efficient development:**
 
 ### Week 1 (Days 1-7):
-- **Day 1:** Fork existing platform, configure for Dark Mist requirements
-- **Days 2-3:** Integrate your insurance prompts, implement 4-coverage risk scoring
-- **Days 4-5:** Build Step Functions workflow and risk calculation engine
-- **Days 6-7:** Risk assessment display UI with hazard categorization
+- **Days 1-2:** Fork existing platform, configure for Dark Mist requirements
+- **Days 3-4:** Integrate your insurance prompts, implement 4-coverage risk scoring
+- **Days 5-7:** Build Step Functions workflow and risk calculation engine
 
-**Checkpoint:** Full image upload → analysis → risk score working end-to-end
+**Checkpoint:** Core infrastructure adapted for insurance use case
 
 ### Week 2 (Days 8-14):
-- **Days 8-9:** PDF report generation with Dark Mist branding
-- **Days 10-11:** Demo mode with your 20+ sample facilities
-- **Day 12:** Final UI polish and mobile optimization
-- **Days 13-14:** Testing, deployment, documentation, and handoff
+- **Days 8-10:** Risk assessment display UI with hazard categorization
+- **Days 11-12:** PDF report generation with Dark Mist branding
+- **Days 13-14:** Image annotation capabilities and batch processing
+
+**Checkpoint:** Full image upload → analysis → risk score → report generation working
+
+### Week 3 (Days 15-21):
+- **Days 15-17:** Demo mode with your 20+ sample facilities
+- **Days 18-19:** Final UI polish and mobile optimization
+- **Days 20-21:** Testing, deployment, documentation, and handoff
 
 **Availability:** 45+ hours per week dedicated to Dark Mist
 
@@ -125,7 +130,7 @@ Given that my platform at https://admin.short-ly.net is ready, my questions focu
 
 **Immediate Benefits:**
 - **Test Before You Buy:** Evaluate my work quality at https://admin.short-ly.net right now
-- **2-Week Delivery:** Beat your 3-week expectation
+- **On-Time Delivery:** Meet your 3-week timeline with confidence
 - **Zero Infrastructure Risk:** Core components fully built and tested
 - **Cost Savings:** No paying for basic AWS setup that I've already built
 
