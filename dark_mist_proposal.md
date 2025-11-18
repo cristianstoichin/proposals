@@ -44,6 +44,7 @@ Beyond the Bedrock-integrated platform, I've built and deployed multiple product
 **Simple Booking - Complete SaaS Booking Management Platform:**
 - **Client-Facing Store:** https://finance-dev.simple-booking.org/services
 - **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
+- **Demo Credentials:** finance-dev@simple-booking.org / Pass123$
 - **Architecture:** Vue.js frontend + Python/Lambda backend + API Gateway + DynamoDB
 - **Features:** Real-time booking management, calendar integration, payment processing, multi-tenant support
 - **What This Demonstrates:**
@@ -106,7 +107,7 @@ Since I have the core platform at https://admin.short-ly.net running, here's wha
 
 **🔥 Live Demo - Available Now:**
 - **Platform:** https://admin.short-ly.net/login
-- **Credentials:** Can provide demo account immediately
+- **Credentials:** demo.user@short-ly.net / Pass123$
 - **Test It:** Upload documents, see Bedrock summarization, experience the UI
 - **Mobile:** Try it on your phone to see responsive design
 
@@ -199,7 +200,7 @@ Best regards,
 [Your Email]
 [LinkedIn Profile]
 
-P.S. I can provide you with demo credentials for https://admin.short-ly.net immediately so you can explore the Bedrock integration yourself. This transparency should give you complete confidence in my ability to deliver.
+P.S. Demo credentials are included above for both platforms - test them immediately to see the quality of my work. This transparency should give you complete confidence in my ability to deliver.
 
 ---
 
