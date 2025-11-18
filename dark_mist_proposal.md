@@ -46,11 +46,15 @@ Beyond the Bedrock-integrated platform, I've built and deployed multiple product
 - **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
 - **Demo Credentials:** finance-dev@simple-booking.org / Pass123$
 - **Architecture:** Vue.js frontend + Python/Lambda backend + API Gateway + DynamoDB
-- **Features:** Real-time booking management, calendar integration, payment processing, multi-tenant support
+- **Robust Integrations:**
+  - **Twilio & AWS SNS:** Automated text messaging for booking confirmations and reminders
+  - **Stripe Payment Processing:** Service payments and monthly SaaS subscriptions for admin users
+  - **Dual Revenue Model:** Both transactional charges and recurring subscription billing
+- **Features:** Real-time booking management, calendar integration, multi-tenant support
 - **What This Demonstrates:**
-  - Experience building both customer-facing and admin interfaces
-  - Complex state management and real-time updates
-  - Production-ready SaaS architecture at scale
+  - Experience with complex third-party integrations (payment processing, communications)
+  - Building SaaS platforms with subscription models
+  - Production-ready architecture handling real money transactions
   - Responsive design across multiple user types
 
 This booking platform showcases the same technical stack and development approach I'll use for Dark Mist, proving my ability to deliver comprehensive, production-ready solutions with both client and admin interfaces.
