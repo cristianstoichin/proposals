@@ -32,10 +32,10 @@ What caught my attention: You need someone who can execute fast with AWS + Bedro
 - ✅ Production monitoring and error handling
 
 **Additional Insurance/Risk Assessment Experience:**
-- Built risk scoring algorithms for equipment rental platform evaluating asset conditions
-- Developed PDF report generation for compliance audits
-- Created computer vision pipeline for safety analysis
-- Implemented multi-factor scoring systems with weighted algorithms
+- Currently work in the automotive industry for a large corporation
+- Extensive experience with auto industry finance and insurance products
+- Deep understanding of commercial auto risk assessment and underwriting
+- Familiar with industry-standard compliance and reporting requirements
 
 **🚀 OTHER PRODUCTION APPLICATIONS - Demonstrating My Full-Stack Expertise:**
 
