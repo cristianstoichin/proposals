@@ -1,8 +1,11 @@
 # FFERM Technologies - AWS Infrastructure Deployment Proposal
 
 **Prepared by:** Cristian Stoichin
+
 **Date:** November 25, 2024
+
 **Project:** Enterprise AWS Infrastructure Deployment
+
 **Budget:** $5,000 USD (Fixed Price)
 
 ---
