@@ -6,8 +6,6 @@
 
 **Project:** Document Intelligence SaaS Backend (FastAPI + AWS Textract)
 
-**Budget:** $8,500 USD (Fixed Price)
-
 ---
 
 ## Why I'm the Right Fit for This Project
@@ -102,19 +100,9 @@ My existing platform at https://admin.short-ly.net already includes:
 
 ---
 
-## Fixed-Price Quote: $8,500 USD
+## Project Deliverables
 
-### Phase Breakdown:
-
-| Phase | Deliverables | Timeline | Price |
-|-------|--------------|----------|-------|
-| **Phase 1** | MVP API Backend | 3 weeks | $4,500 |
-| **Phase 2** | User + Project Structure | 2 weeks | $2,500 |
-| **Phase 3** | Deployment & Best Practices | 1 week | $1,500 |
-
-### Detailed Deliverables:
-
-#### Phase 1 - MVP API Backend ($4,500)
+### Phase 1 - MVP API Backend
 - FastAPI backend with complete API documentation (OpenAPI/Swagger)
 - Document upload endpoint (PDF/JPG/PNG) with validation
 - S3 integration for raw file storage
@@ -130,7 +118,7 @@ My existing platform at https://admin.short-ly.net already includes:
 - PostgreSQL schema and data layer
 - Textract JSON output storage in S3
 
-#### Phase 2 - User + Project Structure ($2,500)
+### Phase 2 - User + Project Structure
 - Adapt existing JWT authentication system (already built with refresh tokens)
 - Extend user flows for your specific requirements
 - Project CRUD operations
@@ -139,7 +127,7 @@ My existing platform at https://admin.short-ly.net already includes:
 - Results retrieval API with filtering and pagination
 - User-scoped data access controls
 
-#### Phase 3 - Deployment & Best Practices ($1,500)
+### Phase 3 - Deployment & Best Practices
 - AWS infrastructure deployment (Terraform IaC)
 - Lambda or ECS Fargate configuration (your choice)
 - Environment separation (dev/staging/prod)
@@ -171,16 +159,13 @@ My existing platform at https://admin.short-ly.net already includes:
 
 ---
 
-## Timeline: 6 Weeks Total
+## Timeline: 3 Weeks Total
 
 | Week | Phase | Milestone |
 |------|-------|-----------|
-| **Week 1** | Phase 1 | FastAPI setup, S3 integration, Textract sync processing |
-| **Week 2** | Phase 1 | Async Textract with SNS/SQS, parsing and normalization |
-| **Week 3** | Phase 1 | Validation rules, PostgreSQL integration, JSON output |
-| **Week 4** | Phase 2 | Authentication, user management |
-| **Week 5** | Phase 2 | Projects, multi-document support, status tracking |
-| **Week 6** | Phase 3 | Deployment, IaC, documentation, testing, handoff |
+| **Week 1** | Phase 1 | FastAPI setup, S3 integration, Textract sync/async processing, parsing |
+| **Week 2** | Phase 2 | JWT adaptation, Projects, multi-document support, PostgreSQL integration |
+| **Week 3** | Phase 3 | Deployment, IaC, monitoring, documentation, testing, handoff |
 
 **Availability:** I can start within 3-5 days of project approval.
 
@@ -264,8 +249,7 @@ I use Claude Code Pro with multiple parallel AI agents for accelerated developme
 | **Proven Platform** | Test my document processing at https://admin.short-ly.net right now |
 | **AWS Expertise** | Certified Solutions Architect with production deployments |
 | **FastAPI Experience** | Multiple production APIs built and deployed |
-| **Fixed Price** | No surprises - $8,500 for complete MVP |
-| **Fast Delivery** | 6-week timeline with existing infrastructure to leverage |
+| **Fast Delivery** | 3-week timeline with existing infrastructure to leverage |
 | **SOC2 Awareness** | Experience with compliant folder structures and logging patterns |
 | **Ongoing Partnership** | Open to continued collaboration as you scale |
 
@@ -276,7 +260,7 @@ I use Claude Code Pro with multiple parallel AI agents for accelerated developme
 1. **Today:** Visit https://admin.short-ly.net/login to evaluate my document processing capabilities
 2. **This Week:** 30-minute call to discuss your specific requirements and Textract use cases
 3. **Upon Agreement:** Kickoff within 3-5 days
-4. **Week 6:** Your Document Intelligence MVP is production-ready
+4. **Week 3:** Your Document Intelligence MVP is production-ready
 
 ---
 
