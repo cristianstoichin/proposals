@@ -13,15 +13,15 @@
 **🚀 LIVE DOCUMENT PROCESSING PLATFORM - Test It Now:**
 - **Live Platform:** https://admin.short-ly.net/login
 - **Demo Credentials:** demo.user@short-ly.net / Pass123$
-- **Already Built:** Vue.js frontend + Python/Lambda backend + API Gateway + S3 uploads + Document Processing + JWT Authentication
+- **Already Built:** Vue.js frontend + Python/Lambda backend + API Gateway + S3 uploads + OpenAI Document Summarization + JWT Authentication
 
-**What This Means for Your Project:** I already have a production-ready document processing system with user authentication running. The core infrastructure for file uploads, S3 storage, async processing, structured data extraction, and JWT-based auth is built and battle-tested. I'll adapt this proven foundation for your AWS Textract integration, which means faster delivery, lower risk, and higher quality.
+**What This Means for Your Project:** I already have a production-ready document processing system with user authentication running. The core infrastructure for file uploads, S3 storage, and JWT-based auth is built and battle-tested. Currently, the platform uses OpenAI to summarize uploaded documents. I'll adapt this proven foundation to integrate AWS Textract for structured data extraction (key-value pairs, tables, handwriting), which means faster delivery, lower risk, and higher quality.
 
 **Try It Yourself:**
 1. Visit https://admin.short-ly.net/login
 2. Use demo credentials: **demo.user@short-ly.net / Pass123$**
-3. Upload a document to see the processing pipeline in action
-4. Experience the real-time status tracking and structured output
+3. Upload a document to see the OpenAI summarization in action
+4. Notice the file upload system and S3 integration - core infrastructure ready to adapt
 
 ---
 
@@ -31,10 +31,10 @@ My existing platform at https://admin.short-ly.net already includes:
 
 - ✅ Complete file upload system with progress tracking (PDF, JPG, PNG support)
 - ✅ S3 integration with presigned URLs and lifecycle policies
-- ✅ AWS Lambda functions optimized for document processing
+- ✅ AWS Lambda functions for serverless processing
 - ✅ API Gateway with CORS, rate limiting, and security configured
-- ✅ Async job processing with status tracking
-- ✅ Structured JSON output for frontend consumption
+- ✅ OpenAI integration for document summarization (adaptable to Textract)
+- ✅ JSON output structure for frontend consumption
 - ✅ Production monitoring and error handling
 - ✅ Infrastructure as Code (Terraform) - fully scripted AWS deployment
 - ✅ CI/CD with GitHub Actions
@@ -223,7 +223,7 @@ My existing platform at https://admin.short-ly.net already includes:
 **1. Short-ly Document Processing Platform:**
 - **Live:** https://admin.short-ly.net/login
 - **Stack:** Python/Lambda, API Gateway, S3, DynamoDB
-- **Relevance:** Document upload, processing, and structured output - exactly what you need
+- **Relevance:** Document upload, OpenAI-powered summarization, S3 storage - core infrastructure ready to adapt for Textract
 
 **2. Simple Booking SaaS Platform:**
 - **Client Store:** https://finance-dev.simple-booking.org/services
