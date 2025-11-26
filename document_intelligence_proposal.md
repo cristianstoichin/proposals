@@ -31,7 +31,8 @@ My existing platform at https://admin.short-ly.net already includes:
 
 - ✅ Complete file upload system with progress tracking (PDF, JPG, PNG support)
 - ✅ S3 integration with presigned URLs and lifecycle policies
-- ✅ AWS Lambda functions for serverless processing
+- ✅ Python-based AWS Lambda functions for serverless processing
+- ✅ DynamoDB for NoSQL storage (can migrate to PostgreSQL/Aurora if preferred)
 - ✅ API Gateway with CORS, rate limiting, and security configured
 - ✅ OpenAI integration for document summarization (adaptable to Textract)
 - ✅ JSON output structure for frontend consumption
@@ -76,9 +77,11 @@ My existing platform at https://admin.short-ly.net already includes:
 
 ### My Recommended AWS Architecture for This MVP
 
-1. **API Layer:** FastAPI on AWS Lambda (via Mangum) or ECS Fargate
-   - Recommendation: Start with Lambda for cost efficiency during MVP phase
-   - Easy migration to ECS/EC2 as you scale
+1. **API Layer:** Python-based AWS Lambda (current implementation) or FastAPI on ECS Fargate
+   - **Current Platform:** Running on Lambda with Python + Mangum adapter
+   - **Recommendation:** Continue with Lambda for maximum cost efficiency (pay only when processing requests)
+   - **Alternative:** Can convert to FastAPI on ECS Fargate if you prefer traditional server architecture
+   - **Cost Benefit:** Lambda = $0 when idle, scales automatically, no server management
 
 2. **Document Storage:** S3 with intelligent tiering
    - Raw uploads in `/raw/` prefix
@@ -89,10 +92,21 @@ My existing platform at https://admin.short-ly.net already includes:
    - Small documents (<5 pages): Synchronous Textract
    - Large documents: Async Textract with SNS notifications → SQS queue → Lambda processor
 
-4. **Database:** PostgreSQL on RDS
-   - Structured storage for extracted data
-   - Full-text search capability for document content
-   - SOC2-friendly audit logging
+4. **Database:** DynamoDB (current) or PostgreSQL/Aurora Serverless (your choice)
+   - **Current Platform:** DynamoDB for NoSQL flexibility and serverless cost model
+   - **Option 1 - DynamoDB (Recommended for MVP):**
+     - Pay-per-request pricing (cost optimal for low/variable traffic)
+     - No server management, automatic scaling
+     - Perfect for document metadata and user data
+   - **Option 2 - PostgreSQL on RDS:**
+     - Structured relational storage for complex queries
+     - Full-text search capability for document content
+     - Traditional SQL interface
+   - **Option 3 - Aurora PostgreSQL Serverless v2 (Best of Both):**
+     - PostgreSQL compatibility with serverless scaling
+     - Scales down to zero during idle periods (major cost savings)
+     - Auto-scales based on load
+     - SOC2-friendly audit logging built-in
 
 5. **Authentication:** AWS Cognito (recommended) or JWT
    - User pools with email verification
