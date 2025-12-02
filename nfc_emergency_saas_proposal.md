@@ -299,24 +299,6 @@ packages/
   - Infrastructure as Code (Terraform) - fully scripted AWS deployment
   - CI/CD with GitHub Actions
 
-### 3. Dark Mist - AI-Powered Risk Assessment Platform
-- **Built For:** Insurance underwriting with AWS Bedrock + Claude
-- **Stack:** Vue.js, Python/Lambda, S3, Step Functions
-- **Why It's Relevant:**
-  - Multi-step workflow orchestration
-  - Public-facing report generation
-  - Risk scoring engine with multiple categories
-  - Mobile-responsive design for field workers
-
-### 4. FFERM Technologies - Enterprise AWS Infrastructure
-- **Scope:** Full AWS infrastructure deployment for SaaS platform
-- **Deliverables:** Multi-AZ VPC, ECS Fargate, RDS PostgreSQL, CloudFront, CI/CD
-- **Why It's Relevant:**
-  - SOC2-ready architecture patterns
-  - 99.9% uptime design with Multi-AZ deployment
-  - Comprehensive monitoring and alerting
-  - Terraform IaC for reproducible infrastructure
-
 ### Certifications & Experience:
 - **AWS Certified Solutions Architect Professional**
 - Extensive experience in automotive industry with large corporation
@@ -352,7 +334,7 @@ I use **Claude Code Max** with parallel AI agents for accelerated development:
 
 ## Why This Partnership Works
 
-You mentioned you're looking for someone who values culture and building something meaningful. I'm not here for a quick project flip. I've built SaaS platforms that are running in production today. I understand that this isn't just a CRUD app - it's a system that could literally save lives when a first responder taps that NFC tag.
+You mentioned you're looking for someone who values culture and building something meaningful. I'm not here for a quick project flip. I've built SaaS platforms that are running in production today. 
 
 I communicate directly, I don't over-engineer, and I ship working code. If I see a simpler path that maintains security, I'll propose it. If something will take longer than expected, you'll know immediately.
 
