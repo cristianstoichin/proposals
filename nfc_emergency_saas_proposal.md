@@ -15,7 +15,7 @@
 **1. Simple Booking SaaS Platform (Multi-Role Dashboard):**
 - **Client Store:** https://finance-dev.simple-booking.org/services
 - **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
-- **Already Built:** Role-based access control, user management, CRUD operations, audit logging, Prisma ORM, PostgreSQL
+- **Already Built:** Role-based access control, user management, CRUD operations, audit logging, Dynamodb
 
 **2. Document Processing Platform:**
 - **Live Platform:** https://admin.short-ly.net/login
