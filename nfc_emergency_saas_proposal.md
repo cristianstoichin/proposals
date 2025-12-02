@@ -13,8 +13,8 @@
 **Live Multi-Tenant SaaS Platforms - See My Work:**
 
 **1. Simple Booking SaaS Platform (Multi-Role Dashboard):**
-- **Client Store:** https://finance-dev.simple-booking.org/services
-- **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
+- **Client Store:** https://finance-dev.simple-booking.org
+- **Admin Dashboard:** https://admin-dev.simple-booking.org
 - **Already Built:** Role-based access control, user management, CRUD operations, audit logging, Dynamodb
 
 **2. Document Processing Platform:**
