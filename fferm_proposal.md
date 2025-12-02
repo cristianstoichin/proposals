@@ -40,8 +40,8 @@ This combination of ready-made Terraform modules and AI-powered development mean
   - CI/CD with GitHub Actions and Terraform IaC
 
 ### Project 2: Simple Booking - SaaS Booking Management Platform
-**Client-Facing Store:** https://finance-dev.simple-booking.org/services
-**Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
+**Client-Facing Store:** https://finance-dev.simple-booking.org
+**Admin Dashboard:** https://admin-dev.simple-booking.org
 **Demo Credentials:** finance-dev@simple-booking.org / Pass123$
 - **Description:** Multi-tenant SaaS booking platform with dual revenue model
 - **Tech Stack:** Vue.js frontend, Python/Lambda backend, API Gateway, DynamoDB
