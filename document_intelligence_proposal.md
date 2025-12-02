@@ -247,8 +247,8 @@ My existing platform at https://admin.short-ly.net already includes:
 - **Relevance:** Document upload, OpenAI-powered summarization, S3 storage - core infrastructure ready to adapt for Textract
 
 **2. Simple Booking SaaS Platform:**
-- **Client Store:** https://finance-dev.simple-booking.org/services
-- **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
+- **Client Store:** https://finance-dev.simple-booking.org
+- **Admin Dashboard:** https://admin-dev.simple-booking.org
 - **Stack:** Python/Lambda, API Gateway, DynamoDB, Stripe, Twilio
 - **Relevance:** Multi-tenant SaaS with user management and API design
 
