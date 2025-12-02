@@ -42,8 +42,8 @@ What caught my attention: You need someone who can execute fast with AWS + Bedro
 Beyond the Bedrock-integrated platform, I've built and deployed multiple production SaaS applications using the same AWS architecture:
 
 **Simple Booking - Complete SaaS Booking Management Platform:**
-- **Client-Facing Store:** https://finance-dev.simple-booking.org/services
-- **Admin Dashboard:** https://admin-dev.simple-booking.org/calendar
+- **Client-Facing Store:** https://finance-dev.simple-booking.org
+- **Admin Dashboard:** https://admin-dev.simple-booking.org
 - **Demo Credentials:** finance-dev@simple-booking.org / Pass123$
 - **Architecture:** Vue.js frontend + Python/Lambda backend + API Gateway + DynamoDB
 - **Robust Integrations:**
