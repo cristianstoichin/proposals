@@ -300,7 +300,7 @@ Before starting, I'd like to clarify:
 
 ---
 
-## Fixed Price: $3,500
+## Fixed Price: $3,000
 
 This includes:
 - Complete script development
