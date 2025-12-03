@@ -15,6 +15,7 @@
 **1. Simple Booking SaaS Platform (Scheduled Automation):**
 - **Client Store:** https://finance-dev.simple-booking.org
 - **Admin Dashboard:** https://admin-dev.simple-booking.org
+- Demo Credentials: finance-dev@simple-booking.org / Pass123$
 - **Already Built:** Automated scheduling, API integrations, AWS Lambda deployments, DynamoDB, email/SMS notifications via Twilio & AWS SNS
 
 **2. Document Processing Platform:**
